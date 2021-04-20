@@ -23,6 +23,10 @@
   },
   "author": "wxlittle",
   "license": "MIT",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "jquery-ui": "1.10.2"
+  },
   "bugs": {
     "url": "https://github.com/wxlittle/ui.anglepicker/issues"
   },
